@@ -1,2 +1,2 @@
-log.txt
-/dir2
+#myApp
+테스트용 myApp
